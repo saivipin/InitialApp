@@ -1,0 +1,2 @@
+# InitialApp
+Basic practice project
